@@ -5,16 +5,19 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(February 2nd, 2018)
 
 ## Student Name:  
-(First and Last Name)
+(Alexander Barlow)
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+(This assignment was using editing a webpage to show off the concepts we learned in Lesson 3.)
+
+## View Project:
+https://arb15v.github.io/lesson3_VersionControl/
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (We learned the commands to add files from a local repository to a remote repository)
+2. (We learned what GIT is and what it does)
+3. (We learned what Version Control is and how awesome it is)
 
